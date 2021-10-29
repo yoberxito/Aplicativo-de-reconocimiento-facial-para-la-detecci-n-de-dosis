@@ -1,0 +1,1 @@
+# Aplicativo-de-reconocimiento-facial-para-la-detecci-n-de-dosis
